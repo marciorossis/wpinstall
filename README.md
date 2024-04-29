@@ -6,6 +6,6 @@ sudo apt install -y git && git clone https://github.com/marciorossis/wpinstall &
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
 ```bash
-cd ./instaladorwhatsapsaas-main && sudo ./install_instancia
+cd ./wpinstall && sudo ./install_instancia
 ```
 
